@@ -1,10 +1,8 @@
-# [Applying to Greentube - Solution 3: Treasure Island
-](https://zyxneo.github.io/Applying-to-Greentube-Solution-3-Treasure-Island
-/)
+# [Applying to Greentube - Solution 3: Treasure Island](https://zyxneo.github.io/Applying-to-Greentube-Solution-3-Treasure-Island/)
 
 Applying for Front-End developer position to [Greentube](https://www.greentube.com/) with an example in 2009
 
-This is a CSS only solution without images.
+This is the third solution, I spent a week for collecting stock images and manipulating them to create the montage for the design.
 
 Original task description:
 
