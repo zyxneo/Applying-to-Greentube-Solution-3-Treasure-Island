@@ -348,7 +348,7 @@ blockquote p{
 	width:93px;
 	height:97px;
 }
-#flickr_badge_image1 a:visited{
+#flickr_badge_image1.visited{
 	background-image:url(../images/f1_visited.png);
 }
 #flickr_badge_image1 a:hover{
@@ -365,7 +365,7 @@ blockquote p{
 	width:93px;
 	height:97px;
 }
-#flickr_badge_image2 a:visited{
+#flickr_badge_image2.visited{
 	background-image:url(../images/f2_visited.png);
 }
 #flickr_badge_image2 a:hover{
@@ -382,7 +382,7 @@ blockquote p{
 	width:83px;
 	height:80px;
 }
-#flickr_badge_image3 a:visited{
+#flickr_badge_image3.visited{
 	background-image:url(../images/f3_visited.png);
 }
 #flickr_badge_image3 a:hover{
